@@ -1,6 +1,6 @@
 # things-i-want-to-learn
 
-GraphQL
-GatsbyJS
-Firebase
-Sass
+- GraphQL
+- GatsbyJS
+- Firebase
+- Sass
