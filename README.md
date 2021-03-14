@@ -4,3 +4,4 @@
 - GatsbyJS
 - Firebase
 - Sass
+- NetlifyCMS
