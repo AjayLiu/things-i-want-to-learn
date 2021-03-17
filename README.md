@@ -1,7 +1,8 @@
 # things-i-want-to-learn
 
-- GraphQL
-- GatsbyJS
+- ~~GatsbyJS~~
 - Firebase
-- Sass
-- NetlifyCMS
+- ~~Sass~~
+- ~~NetlifyCMS~~
+- GraphQL
+- Apollo
