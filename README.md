@@ -6,3 +6,4 @@
 - ~~NetlifyCMS~~
 - GraphQL
 - Apollo
+- Lobby party game
