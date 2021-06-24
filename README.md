@@ -4,6 +4,7 @@
 - Firebase
 - ~~Sass~~
 - ~~NetlifyCMS~~
-- GraphQL
+- ~~GraphQL~~
 - Apollo
-- Lobby party game
+- ~~Lobby party game~~
+- Tailwind
